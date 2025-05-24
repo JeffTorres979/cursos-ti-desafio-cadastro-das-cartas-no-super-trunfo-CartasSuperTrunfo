@@ -7,6 +7,29 @@
 //Teste larissa
 
 int main() {
+
+Carta 1:
+
+    char Estado: A
+    char Código: A01
+    char Nome da Cidade: São Paulo
+    int População: 12325000
+    float Área: 1521.11 km²
+    float PIB: 699.28 bilhões de reais
+    int Número de Pontos Turísticos: 50
+
+
+Carta 2:
+
+    char Estado: B
+    char Código: B02
+    char Nome da Cidade: Rio de Janeiro
+    int População: 6748000
+    float Área: 1200.25 km²
+    float PIB: 300.50 bilhões de reais
+    int Número de Pontos Turísticos: 30    
+
+   
     // Sugestão: Defina variáveis separadas para cada atributo da cidade.
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
     
